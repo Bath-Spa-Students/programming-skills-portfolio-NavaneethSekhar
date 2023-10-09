@@ -1,0 +1,5 @@
+name_A = "Navaneeth "
+name_B = "Sekhar"
+name = name_A+name_B
+print (name, end="\t")
+print ("welcome to code lab 1")

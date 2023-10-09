@@ -1,0 +1,2 @@
+this = "A gangstar"
+print (f'J.R is {this}')
