@@ -1,0 +1,1 @@
+print (Bill Gates once said, "It is not your fault if you'r born poor but it is you'r fault if you die poor")
